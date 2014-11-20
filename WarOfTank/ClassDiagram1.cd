@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WarOfTank.Base.Element">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAEgAgAAAAAAAAgAAAAQQAAAAAwAAAAAA=</HashCode>
+      <FileName>Base\Element.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="IImpactBehavior" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WarOfTank.Base.ImpactBarrier">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\Behavior\ImpactBarrier.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.565" />
+  </Class>
+  <Class Name="WarOfTank.Base.ImpactTank">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\Behavior\ImpactTank.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.554" />
+  </Class>
+  <Class Name="WarOfTank.Base.Barrier.Barrier" Collapsed="true">
+    <Position X="1.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\Barrier\Barrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarOfTank.Base.Bullet.Bullet" Collapsed="true">
+    <Position X="3.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\Bullet\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarOfTank.Base.Tank.Tank" Collapsed="true">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\Tank\Tank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarOfTank.Base.Barrier.RockBarrier" Collapsed="true">
+    <Position X="2.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\Barrier\RockBarrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarOfTank.Base.Barrier.WaterBarrier" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\Barrier\WaterBarrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarOfTank.Base.Bullet.AnamyBullet" Collapsed="true">
+    <Position X="4" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\Bullet\AnamyBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarOfTank.Base.Bullet.PlayerBullet" Collapsed="true">
+    <Position X="5.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\Bullet\PlayerBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarOfTank.Base.Tank.AnamyTank1" Collapsed="true">
+    <Position X="8" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\Tank\AnamyTank1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarOfTank.Base.Tank.AnamyTank2" Collapsed="true">
+    <Position X="10.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\Tank\AnamyTank2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WarOfTank.Base.Tank.PlayerTank" Collapsed="true">
+    <Position X="12.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\Tank\PlayerTank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="WarOfTank.Base.IImpactBehavior">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\Behavior\IImpactBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
